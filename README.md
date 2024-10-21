@@ -33,8 +33,6 @@ Hi!&nbsp; :wave: I'm **MCC321**, I like coding.
 <div align=center>
 <a href="#"><img style="height: auto; width: 48%;" src="https://raw.githubusercontent.com/MCC321-QC/github-stats/refs/heads/master/generated/overview.svg"/></a>
 <a href="#"><img style="height: auto; width: 48%;" src="https://raw.githubusercontent.com/MCC321-QC/github-stats/refs/heads/master/generated/languages.svg"/></a>
-<a href="#"><img style="height: auto; width: 48%;" src="https://github-readme-stats.vercel.app/api?username=MCC321-QC&theme=nord&show_icons=true"/></a>
-<a href="#"><img style="height: auto; width: 48%;" src="https://card.yuy1n.io/card/76561198054729547/dark,en,badge,group"/></a>
 
 </div>
 
