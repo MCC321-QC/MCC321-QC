@@ -5,10 +5,9 @@
 <div align="center">
 <a href="#"><img src="https://media.githubusercontent.com/media/daephx/daephx/main/assets/start.gif"/></a>
 
-<a href="https://github.com/MCC321-QC?tab=repositories" target="_blank" rel="noopener noreferrer">Repositories</a>
-•&nbsp;<a href="https://www.playnite.link" target="_blank" rel="noopener noreferrer">Playnite</a>
-•&nbsp;<a href="https://github.com/MCC321-QC/eMixedNiteMC" target="_blank" rel="noopener noreferrer">eMixedNiteMC</a>
-•&nbsp;<a href="https://neptuneskate.com" target="_blank" rel="noopener noreferrer">Neptune Sport</a>
+<a href="https://github.com/MCC321-QC?tab=repositories" target="_blank" rel="noopener noreferrer">Repo</a>
+•&nbsp;<a href="https://github.com/MCC321-QC/eMixedNiteMC/wiki" target="_blank" rel="noopener noreferrer">Wiki</a>
+•&nbsp;<a href="https://github.com/MCC321-QC/awesome-stars" target="_blank" rel="noopener noreferrer">Stars</a>
 
 </div>
 
