@@ -16,7 +16,7 @@
 
 <!-- Introduction -->
 
-<a href="#"><img align=right height="200px" src="https://media.githubusercontent.com/media/daephx/daephx/main/assets/delete.gif"/></a>
+<a href="#"><img align=right height="225px" src="https://media.githubusercontent.com/media/daephx/daephx/main/assets/delete.gif"/></a>
 
 ### :space_invader: About Me
 
