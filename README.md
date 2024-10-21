@@ -20,7 +20,10 @@
 
 ### :space_invader: About Me
 
-Hi!&nbsp; :wave: I'm **MCC321**, I like coding.
+Hi!&nbsp; :wave: I'm **MCC321**, I like coding.<br>
+I'm a small developer who likes challenges.<br>
+I'm here to mainly update & maintain the<br>
+theme [eMixedNiteMC](https://github.com/MCC321-QC/eMixedNiteMC) for the application [Playnite](https://www.playnite.link).
 
 - :alembic: Inspired by science and technological development.
 - :heartbeat: Passionate for troubleshooting and automation.
