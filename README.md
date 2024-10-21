@@ -3,7 +3,7 @@
 <!-- Banner -->
 
 <div align="center">
-<a href="#"><img src="assets/start.gif"/></a>
+<a href="#"><img src="https://media.githubusercontent.com/media/daephx/daephx/main/assets/start.gif"/></a>
 
 <a href="https://github.com/MCC321-QC?tab=repositories" target="_blank" rel="noopener noreferrer">Repositories</a>
 •&nbsp;<a href="https://www.playnite.link" target="_blank" rel="noopener noreferrer">Playnite</a>
@@ -16,7 +16,7 @@
 
 <!-- Introduction -->
 
-<a href="#"><img align=right height="160px" width="320px" src="assets/delete.gif"/></a>
+<a href="#"><img align=right height="250px" src="https://media.githubusercontent.com/media/daephx/daephx/main/assets/delete.gif"/></a>
 
 ### :space_invader: About Me
 
