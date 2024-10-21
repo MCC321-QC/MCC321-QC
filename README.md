@@ -34,8 +34,8 @@ theme [eMixedNiteMC](https://github.com/MCC321-QC/eMixedNiteMC) for the applicat
 <!-- Statistics -->
 
 <div align=center>
-<a href="#"><img style="height: auto; width: 48%;" src="https://raw.githubusercontent.com/MCC321-QC/github-stats/refs/heads/master/generated/overview.svg"/></a>
-<a href="#"><img style="height: auto; width: 48%;" src="https://raw.githubusercontent.com/MCC321-QC/github-stats/refs/heads/master/generated/languages.svg"/></a>
+<a href="https://github.com/jstrieb/github-stats"><img style="height: auto; width: 48%;" src="https://raw.githubusercontent.com/MCC321-QC/github-stats/refs/heads/master/generated/overview.svg"/></a>
+<a href="https://github.com/jstrieb/github-stats"><img style="height: auto; width: 48%;" src="https://raw.githubusercontent.com/MCC321-QC/github-stats/refs/heads/master/generated/languages.svg"/></a>
 
 </div>
 
