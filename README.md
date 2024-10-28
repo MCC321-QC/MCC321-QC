@@ -3,7 +3,7 @@
 <!-- Banner -->
 
 <div align="center">
-<a href="#"><img src="https://media.githubusercontent.com/media/daephx/daephx/main/assets/start.gif"/></a>
+<a href="#"><img src="assets/start.gif"/></a>
 
 <a href="https://github.com/MCC321-QC?tab=repositories" target="_blank" rel="noopener noreferrer">Repo</a>
 •&nbsp;<a href="https://github.com/MCC321-QC/eMixedNiteMC/wiki" target="_blank" rel="noopener noreferrer">Wiki</a>
@@ -15,7 +15,7 @@
 
 <!-- Introduction -->
 
-<a href="#"><img align=right height="210px" src="https://media.githubusercontent.com/media/daephx/daephx/main/assets/delete.gif"/></a>
+<a href="#"><img align=right height="210px" src="assets/delete.gif"/></a>
 
 ### :space_invader: About Me
 
