@@ -7,7 +7,7 @@
 
 <a href="https://github.com/MCC321-QC?tab=repositories" target="_blank" rel="noopener noreferrer">Repo</a>
 •&nbsp;<a href="https://github.com/MCC321-QC/eMixedNiteMC/wiki" target="_blank" rel="noopener noreferrer">Wiki</a>
-•&nbsp;<a href="https://github.com/MCC321-QC/awesome-stars" target="_blank" rel="noopener noreferrer">Stars</a>
+•&nbsp;<a href="https://github.com/MCC321-QC?tab=stars" target="_blank" rel="noopener noreferrer">Stars</a>
 
 </div>
 
