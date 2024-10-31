@@ -9,8 +9,7 @@
 •&nbsp;<a href="https://github.com/MCC321-QC/eMixedNiteMC/wiki" target="_blank" rel="noopener noreferrer">Wiki</a>
 •&nbsp;<a href="https://github.com/MCC321-QC?tab=stars" target="_blank" rel="noopener noreferrer">Stars</a>
 
-[![Release](https://img.shields.io/github/v/release/MCC321-QC/eMixedNiteMC?display_name=release&include_prereleases&label=Release&sort=date&style=flat)](https://github.com/MCC321-QC/eMixedNiteMC/releases/latest) [![Download](https://img.shields.io/github/downloads/MCC321-QC/eMixedNiteMC/total?label=Downloads&style=flat)](https://github.com/MCC321-QC/eMixedNiteMC/releases/latest) [![Crowdin](https://badges.crowdin.net/emixednitemc/localized.svg)](https://crowdin.com/project/emixednitemc) [![GitHub Release Date](https://img.shields.io/github/release-date/MCC321-QC/eMixedNiteMC?cacheSeconds=5000)](https://github.com/MCC321-QC/eMixedNiteMC/releases/latest) [![GitHub contributors](https://img.shields.io/github/contributors/MCC321-QC/eMixedNiteMC?cacheSeconds=5000)](https://github.com/MCC321-QC/eMixedNiteMC/graphs/contributors)
-
+[![Release](https://img.shields.io/github/v/release/MCC321-QC/eMixedNiteMC?display_name=release&include_prereleases&label=Release&sort=date&style=flat)](https://github.com/MCC321-QC/eMixedNiteMC/releases/latest) [![Download](https://img.shields.io/github/downloads/MCC321-QC/eMixedNiteMC/total?label=Downloads&style=flat)](https://github.com/MCC321-QC/eMixedNiteMC/releases/latest) [![Crowdin](https://badges.crowdin.net/emixednitemc/localized.svg)](https://crowdin.com/project/emixednitemc) [![Ko-fi Badge](https://img.shields.io/badge/Tip%20me%20on%20Ko--fi-ff5f5f)](https://ko-fi.com/MCC321)
 </div>
 
 <hr>
