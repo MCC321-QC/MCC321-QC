@@ -3,7 +3,7 @@
 <!-- Banner -->
 
 <div align="center">
-<a href="#"><img src="assets/start.gif"/></a>
+<img src="assets/start.gif"/>
 
 <a href="https://github.com/MCC321-QC?tab=repositories" target="_blank" rel="noopener noreferrer">Repo</a>
 •&nbsp;<a href="https://github.com/MCC321-QC/eMixedNiteMC/wiki" target="_blank" rel="noopener noreferrer">Wiki</a>
@@ -16,7 +16,7 @@
 
 <!-- Introduction -->
 
-<a href="#"><img align=right height="210px" src="assets/delete.gif"/></a>
+<img align=right height="210px" src="assets/delete.gif"/>
 
 ### :space_invader: About Me
 
