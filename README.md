@@ -29,8 +29,6 @@ theme [eMixedNiteMC](https://github.com/MCC321-QC/eMixedNiteMC) for the applicat
 - :heartbeat: Passionate for troubleshooting and automation.
 - :anger: Corrupted by my love for games & anime.
 
-<hr>
-
 <!-- Statistics 
 
 <div align=center>
